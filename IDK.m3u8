@@ -1,3 +1,222 @@
 #EXTM3U
-#EXTINF:-1,1
-https://dhtpre.com/stream/7udSCC4IH9ScSHPQDYgctA/hjkrhuihghfvu/1758727131/31931389/index-v1-a1.m3u8
+#EXTINF:-1,TVRI Nasional (1)
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1,TVRI Nasional (2)
+https://wahyu1ptv.pages.dev/TvRi-HD.m3u8
+
+#EXTINF:-1,TVRI World (1)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20000.m3u8
+
+#EXTINF:-1,TVRI Sport (1)
+https://smart.pendy.dpdns.org/Smart.php?id=TVRI
+
+#EXTINF:-1,TVRI Sport (2)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1,RTV (1)
+https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1,MDTV (1)
+https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
+
+#EXTINF:-1,MDTV (2)
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+
+#EXTINF:-1,MDTV (3)
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
+
+#EXTINF:-1,SCTV (1)
+https://smart.pendy.dpdns.org/Smart.php?id=SCTV
+
+#EXTINF:-1,SCTV (2)
+https://wahyu1ptv.pages.dev/ScTv-HD.m3u8
+
+#EXTINF:-1,SCTV (3)
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1,INDOSIAR (1)
+https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
+
+#EXTINF:-1,INDOSIAR (2)
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1,MOJI (1)
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
+#EXTINF:-1,MOJI (2)
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1,MENTARI Indihome (1)
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1,KOMPAS TV (1)
+https://wahyu1ptv.pages.dev/KompasTV-HD.m3u8
+
+#EXTINF:-1,KOMPAS TV (2)
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+#EXTINF:-1,TRANS TV Indihome (1)
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1,TRANS TV (1)
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2048714342_b744100_sleng.m3u8
+
+#EXTINF:-1,TRANS 7 Indihome (1)
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1,TRANS 7 (1)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w365876275_b744100_sleng.m3u8
+
+#EXTINF:-1,CNN INDONESIA (1)
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+
+#EXTINF:-1,CNN INDONESIA (2)
+https://wahyu1ptv.pages.dev/CNN-HD.m3u8
+
+#EXTINF:-1,CNN INDONESIA (3)
+https://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
+
+#EXTINF:-1,CNBC INDONESIA (1)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1457300562_b384000_sleng.m3u8
+
+#EXTINF:-1,CNBC INDONESIA (2)
+https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
+
+#EXTINF:-1,CNBC INDONESIA (3)
+http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
+
+#EXTINF:-1,ANTV (1)
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+
+#EXTINF:-1,ANTV (2)
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+
+#EXTINF:-1,DUTA TV (1)
+
+
+#EXTINF:-1,DUTA TV (2)
+
+
+#EXTINF:-1,DUTA TV (3)
+
+
+#EXTINF:-1,DUTA TV (4)
+
+
+#EXTINF:-1,DUTA TV (5)
+
+
+#EXTINF:-1,DUTA TV (6)
+
+
+#EXTINF:-1,DUTA TV (7)
+
+
+#EXTINF:-1,DUTA TV (8)
+
+
+#EXTINF:-1,TV ONE (1)
+https://wahyu1ptv.pages.dev/TVONE-HD.m3u8
+
+#EXTINF:-1,TV ONE (2)
+https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1,BN TV (1)
+
+
+#EXTINF:-1,BN TV (2)
+
+
+#EXTINF:-1,BN TV (3)
+
+
+#EXTINF:-1,BN TV (4)
+
+
+#EXTINF:-1,BN TV (5)
+
+
+#EXTINF:-1,BN TV (6)
+
+
+#EXTINF:-1,BN TV (7)
+
+
+#EXTINF:-1,BN TV (8)
+
+
+#EXTINF:-1,MAGNA (1)
+
+
+#EXTINF:-1,MAGNA (2)
+
+
+#EXTINF:-1,MAGNA (3)
+
+
+#EXTINF:-1,MAGNA (4)
+
+
+#EXTINF:-1,MAGNA (5)
+
+
+#EXTINF:-1,MAGNA (6)
+
+
+#EXTINF:-1,MAGNA (7)
+
+
+#EXTINF:-1,MAGNA (8)
+
+
+#EXTINF:-1,METRO TV (1)
+https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
+
+#EXTINF:-1,METRO TV (2)
+https://wahyu1ptv.pages.dev/MetroTV-HD.m3u8
+
+#EXTINF:-1,METRO TV (3)
+http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1,RCTI+ (1)
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
+
+#EXTINF:-1,RCTI+ 1080p
+#https://midcache5.rctiplus.id/hdlive2/inavschina20250605_1080p/index.m3u8
+
+#EXTINF:-1,RCTI+ 720p
+#https://midcache5.rctiplus.id/hdlive2/inavschina20250605_720p/index.m3u8
+
+#EXTINF:-1,GTV (1)
+https://smart.pendy.dpdns.org/Smart.php?id=Gtv
+
+#EXTINF:-1,MNCTV (1)
+https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
+
+#EXTINF:-1,MNCTV (2)
+http://filex.tv:8080/live/@B1gM0/qsavC6NPSm/302278.m3u8
+
+#EXTINF:-1,MNCTV (3)
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+#EXTINF:-1,iNews (1)
+https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
+
+#EXTINF:-1,iNews (2)
+https://allcutv.rctiplus.id/inews2023.m3u8
+
+#EXTINF:-1,Sportstar2 1080p
+#https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index_6.m3u8
+
+#EXTINF:-1,Sportstar2 720p
+#https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index_5.m3u8
+
+#EXTINF:-1,K-PLUS
+https://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
+
+#EXTINF:-1,TVN HD
+https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
+
+#EXTINF:-1,TVN MOVIES 
+https://op-group1-swiftservehd-1.dens.tv/h/h21/01.m3u8
