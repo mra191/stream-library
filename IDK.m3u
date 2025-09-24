@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1, test
 https://dhtpre.com/stream/7udSCC4IH9ScSHPQDYgctA/hjkrhuihghfvu/1758727131/31931389/master.m3u8
+
+#EXTINF:-1, test 2
+https://dhtpre.com/stream/7udSCC4IH9ScSHPQDYgctA/hjkrhuihghfvu/1758727131/31931389/index-v1-a1.m3u8
