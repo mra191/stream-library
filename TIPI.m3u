@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,TVRI Nasional
+
+#EXTINF:-1,TVRI World
+
+#EXTINF:-1,TVRI Sport
+
+#EXTINF:-1,RTV
+
+#EXTINF:-1,MDTV
+
+#EXTINF:-1,SCTV
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1,INDOSIAR
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1,MOJI
+
+#EXTINF:-1,MENTARI Indihome
+
+#EXTINF:-1,KOMPAS TV
+
+#EXTINF:-1,TRANS TV
+https://cdn10jtedge.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1,TRANS 7
+http://ktpremium.online:2095/SkyGoh/8881806/73609
+
+#EXTINF:-1,CNN INDONESIA
+http://ktpremium.online:2095/SkyGoh/8881806/73613
+
+#EXTINF:-1,CNBC INDONESIA
+
+#EXTINF:-1,ANTV
+https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+#EXTINF:-1,DUTA TV
+
+#EXTINF:-1,TV ONE
+https://cdn10jtedge.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1,BN TV (1)
+
+#EXTINF:-1,MAGNA (1)
+
+#EXTINF:-1,METRO TV
+
+#EXTINF:-1,RCTI
+
+#EXTINF:-1,GTV
+http://ktpremium.online:2095/SkyGoh/8881806/73619
+
+#EXTINF:-1,MNCTV
+
+#EXTINF:-1,iNews
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
+
+#EXTINF:-1,Sportstar2
+
+#EXTINF:-1,K-PLUS
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+#EXTINF:-1,TVN HD
+
+#EXTINF:-1,TVN MOVIES 
+
+#EXTINF:-1,CN NETWORK
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
