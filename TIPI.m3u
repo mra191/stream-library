@@ -65,47 +65,47 @@ http://iptvmedia.live:8080/F36591/3f1a2b5c/165060
 #EXTINF:-1, RCTI
 http://iptvmedia.live:8080/F36591/3f1a2b5c/157591
 
-#EXTINF:-1, 
+#EXTINF:-1, SPOTV
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165105
 
+#EXTINF:-1, TRANS7
+http://iptvmedia.live:8080/F36591/3f1a2b5c/162502
 
-#EXTINF:-1, 
+#EXTINF:-1, TRANSTV
+http://iptvmedia.live:8080/F36591/3f1a2b5c/162503
 
+#EXTINF:-1, TVN Movies
+http://iptvmedia.live:8080/F36591/3f1a2b5c/157596
 
-#EXTINF:-1, 
+#EXTINF:-1, TVONE
+http://iptvmedia.live:8080/F36591/3f1a2b5c/266808
 
+#EXTINF:-1, MNCTV
+http://filex.tv:8080//live/uk007/000920/302278.ts
 
-#EXTINF:-1, 
+#EXTINF:-1, TVRI
+http://filex.tv:8080//live/uk007/000920/302318.ts
 
+#EXTINF:-1, TVONE HD
+http://filex.tv:8080//live/uk007/000920/501281.ts
 
-#EXTINF:-1, 
+#EXTINF:-1, Indosiar
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1, Nusantara TV
+https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 
-#EXTINF:-1, 
+#EXTINF:-1, Berita Satu
+https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
+#EXTINF:-1, Indonesiana TV
+https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1, 
+#EXTINF:-1, TVN
+https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
 
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
+#EXTINF:-1, TVN Movies
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
 
 #EXTINF:-1, 
 
