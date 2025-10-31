@@ -92,11 +92,18 @@ Link (kosongin aja)
 #EXTINF:-1, BN Channel
 Link (kosongin aja)
 
-#EXTINF:-1, Trans7
+#EXTINF:-1, Trans7 HD
 http://203.77.246.58:4500/udp/239.1.3.220:5000
+
+#EXTINF:-1, Trans7
+http://iptvmedia.live:8080/F36591/3f1a2b5c/162502
+http://filex.tv:8080//live/uk007/000920/302311.ts
 
 #EXTINF:-1, Trans TV
 http://203.77.246.58:4500/udp/239.1.3.222:5000
+
+#EXTINF:-1, Trans TV SD
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1, CNN Indonesia HD
 http://202.169.224.202:8800/udp/239.4.1.3:1234
@@ -121,29 +128,45 @@ https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=l
 #EXTINF:-1, Kompas TV SD
 http://filex.tv:8080//live/uk007/000920/302271.ts
 
+#EXTINF:-1, RTV HD
+http://202.169.224.202:8800/udp/239.2.3.1:1234
+
 #EXTINF:-1, RTV
-Link (kosongin aja)
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1, Nusantara TV HD
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:-1, Nusantara TV
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8?app_type=web&userid=lite&chname=Nusantara_TV_NTV-
+
+#EXTINF:-1, Nusantara TV SD
+http://203.77.246.58:4500/udp/239.1.1.14:5000
 
 #EXTINF:-1, BTV
-Link (kosongin aja)
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 #EXTINF:-1, Garuda TV
 Link (kosongin aja)
 
 #EXTINF:-1, MDTV
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8?app_type=web&userid=lite&chname=MDTV
 
 #EXTINF:-1, Banjar TV
-Link (kosongin aja)
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
 
 #EXTINF:-1, Duta TV
-Link (kosongin aja)
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+
+#EXTINF:-1, tvN HD
+http://203.77.246.58:4500/udp/239.1.3.64:5000
 
 #EXTINF:-1, tvN
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&userid=lite&chname=tvN_HD
+
+#EXTINF:-1, tvN Movies HD
+http://203.77.246.58:4500/udp/239.1.3.62:5000
 
 #EXTINF:-1, tvN Movies
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&userid=lite&chname=tvN_Movies_HD
+
