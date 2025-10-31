@@ -56,20 +56,35 @@ http://filex.tv:8080//live/uk007/000920/302264.ts
 #EXTINF:-1, Moji
 Link (kosongin aja)
 
-#EXTINF:-1, Mentari TV
-Link (kosongin aja)
+#EXTINF:-1, Mentari TV HD
+http://103.153.246.42:4022/udp/239.2.2.6:3000
 
 #EXTINF:-1, ANTV
-Link (kosongin aja)
+http://203.77.246.58:4500/udp/239.1.1.104:5000
+
+#EXTINF:-1, ANTV SD
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165072
+
+#EXTINF:-1, tvOne HD
+http://202.169.224.202:8800/udp/239.3.1.14:1234
 
 #EXTINF:-1, tvOne
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
+
+#EXTINF:-1, tvOne SD
+http://iptvmedia.live:8080/F36591/3f1a2b5c/266808
 
 #EXTINF:-1, VTV
 Link (kosongin aja)
 
+#EXTINF:-1, Metro TV HD
+http://103.153.246.42:4022/udp/239.2.2.24:3000
+
 #EXTINF:-1, Metro TV
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1, Metro TV SD
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165059
 
 #EXTINF:-1, Magna Channel
 Link (kosongin aja)
@@ -78,19 +93,33 @@ Link (kosongin aja)
 Link (kosongin aja)
 
 #EXTINF:-1, Trans7
-Link (kosongin aja)
+http://203.77.246.58:4500/udp/239.1.3.220:5000
 
 #EXTINF:-1, Trans TV
 http://203.77.246.58:4500/udp/239.1.3.222:5000
 
+#EXTINF:-1, CNN Indonesia HD
+http://202.169.224.202:8800/udp/239.4.1.3:1234
+http://iptvmedia.live:8080/F36591/3f1a2b5c/162137
+
 #EXTINF:-1, CNN Indonesia
-Link (kosongin aja)
+https://wahyu1ptv.pages.dev/CNN-HD.m3u8
+
+#EXTINF:-1, CNBC Indonesia HD
+http://iptvmedia.live:8080/F36591/3f1a2b5c/165062
 
 #EXTINF:-1, CNBC Indonesia
-Link (kosongin aja)
+https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
+
+#EXTINF:-1, Kompas TV HD
+http://202.169.224.202:8800/udp/239.1.4.2:1234
+http://203.77.246.58:4500/udp/239.1.1.6:5000
 
 #EXTINF:-1, Kompas TV
-Link (kosongin aja)
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
+
+#EXTINF:-1, Kompas TV SD
+http://filex.tv:8080//live/uk007/000920/302271.ts
 
 #EXTINF:-1, RTV
 Link (kosongin aja)
