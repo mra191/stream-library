@@ -2,7 +2,7 @@
 #EXTINF:-1, klik tombol biru utk ganti kualitas video
 #
 
-#EXTINF:-1, yg ch tv akhiran ny tdk tertera nm kualitas
+#EXTINF:-1, yg ch tv akhiran ny tdk tertera nm quality
 #
 
 #EXTINF:-1, TVRI HD
@@ -113,7 +113,10 @@ http://filex.tv:8080//live/uk007/000920/302311.ts
 #EXTINF:-1, Trans TV HD
 http://203.77.246.58:4500/udp/239.1.3.222:5000
 
-#EXTINF:-1, Trans TV SD - LAMBAT
+#EXTINF:-1, Trans TV SD (1)
+http://www.magnum-ott.net/G4DG5V4/7DQD6XW/584538
+
+#EXTINF:-1, Trans TV SD (2) - LAMBAT
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
 #EXTINF:-1, CNN Indonesia FHD (1)
