@@ -1,5 +1,8 @@
 #EXTM3U
-#EXTINF:-1, klik tombol biru utk kualitas video
+#EXTINF:-1, klik tombol biru utk ganti kualitas video
+#
+
+#EXTINF:-1, yg ch tv akhiran ny tdk tertera resolusi video
 #
 
 #EXTINF:-1, TVRI HD
@@ -50,10 +53,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1, SCTV FHD
 http://203.77.246.58:4500/udp/239.1.1.108:5000
 
-#EXTINF:-1, SCTV
+#EXTINF:-1, SCTV (1)
 https://popmi.my.id/tes.m3u8?id=204
 
-#EXTINF:-1, SCTV
+#EXTINF:-1, SCTV (2)
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8?app_type=web&userid=lite&chname=sctv
 
 #EXTINF:-1, Indosiar FHD (1)
