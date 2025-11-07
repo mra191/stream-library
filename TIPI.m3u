@@ -185,17 +185,64 @@ http://203.77.246.58:4500/udp/239.1.3.62:5000
 #EXTINF:-1, tvN Movies FHD (2)
 https://iptv.lancartech.co.id:443/Farhan@90/18062025/67
 
+#EXTINF:-1, HBO FHD (1)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444177
+
+#EXTINF:-1, HBO FHD (2)
+http://203.77.246.58:4500/udp/239.1.3.84:5000
+
+#EXTINF:-1, HBO Hits FHD (1)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444178
+
+#EXTINF:-1, HBO Hits FHD (2)
+http://203.77.246.58:4500/udp/239.1.3.82:5000
+
+#EXTINF:-1, HBO Family FHD (1)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444188
+
+#EXTINF:-1, HBO Family FHD (2)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/53
+
+#EXTINF:-1, HBO Signature FHD (1)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444179
+
+#EXTINF:-1, HBO Signature FHD (2)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/55
+
+#EXTINF:-1, Cinemax FHD (1)
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
+
+#EXTINF:-1, Cinemax FHD (2)
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/48
+
+#EXTINF:-1,Sportstars 1
 
 
+#EXTINF:-1,Sportstars 2 SD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000124/1024.m3u8
+
+#EXTINF:-1,Sportstars 3
 
 
+#EXTINF:-1,Sportstars 4 SD
+http://202.80.222.20/cdn/iptv/Tvod/001/channel2000045/1024.m3u8
+
+#EXTINF:-1,beIN Sports 1
+https://iptv.lancartech.co.id/live/Farhan@90/18062025/72.m3u8
+
+#EXTINF:-1,beIN Sports 2
+https://iptv.lancartech.co.id/live/Farhan@90/18062025/73.m3u8
+
+#EXTINF:-1,beIN Sports 3
+https://iptv.lancartech.co.id/live/Farhan@90/18062025/74.m3u8
+
+#EXTINF:-1,SPOTV
 
 
+#EXTINF:-1,SPOTV 2
 
 
-
-
-
+#EXTINF:-1, Astro Arena
 
 
 
