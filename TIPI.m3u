@@ -102,6 +102,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:-1, My Family
 https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
+#EXTINF:-1,K-POP TV PLAY 
+https://wahyu1ptv.pages.dev/KPopTvPlay.m3u8
+
+#EXTINF:-1,K-POP SHOW CHAMPION
+https://wahyu1ptv.pages.dev/kPopCV.m3u8
+
+#EXTINF:-1,K-POP BY CJ ENT
+https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
+
 #EXTINF:-1, tvN
 
 #EXTINF:-1, tvN Movies
