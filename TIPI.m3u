@@ -67,6 +67,9 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8 (FHD)
 #EXTINF:-1, BTV
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
+#EXTINF:-1, BERITA SATU
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+
 #EXTINF:-1, MDTV
 https://op-group1-swiftservehd-1.dens.tv/h/h223/index.m3u8
 
@@ -76,11 +79,26 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1, Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1, DAAI TV
+https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
+
+#EXTINF:-1, Rodja TV
+https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+
 #EXTINF:-1, Makkah TV
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 
 #EXTINF:-1, Madinah TV
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
+#EXTINF:-1, MyKidz TV
+https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1, My Cinema
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1, My Family
+https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
 
 #EXTINF:-1, tvN
 
