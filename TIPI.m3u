@@ -41,16 +41,16 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1, Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/index.m3u8
 
-#EXTINF:-1, Trans7 (LAMBAT!!!)
+#EXTINF:-1, Trans7 (LAMBAT)
 
-#EXTINF:-1, Trans TV (LAMBAT!!!)
+#EXTINF:-1, Trans TV (LAMBAT)
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1, CNN Indonesia
 http://202.169.224.202:8800/udp/239.4.1.3:1234
 https://wahyu1ptv.pages.dev/CNN-HD.m3u8 (LAMBAT)
 
-#EXTINF:-1, CNBC Indonesia (LAMBAT!!!)
+#EXTINF:-1, CNBC Indonesia (LAMBAT)
 https://wahyu1ptv.pages.dev/CNBC-HD.m3u8
 
 #EXTINF:-1, Kompas TV
@@ -134,9 +134,7 @@ https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 
 #EXTINF:-1, SPOTV
 
-
 #EXTINF:-1, SPOTV 2
-
 
 #EXTINF:-1, Astro Arena
 
