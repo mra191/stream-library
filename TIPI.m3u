@@ -81,17 +81,24 @@ https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1, Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
 
+#EXTINF:-1, MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1446664802.m3u8
+
 #EXTINF:-1, DAAI TV
 https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 
 #EXTINF:-1, Rodja TV
 https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
+https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 
-#EXTINF:-1, Makkah TV
+#EXTINF:-1, Quran TV
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 
-#EXTINF:-1, Madinah TV
+#EXTINF:-1, Sunna TV
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
+#EXTINF:-1, Dei Kids
+https://e.siar.us/live/deikidstv.m3u8
 
 #EXTINF:-1, MyKidz TV
 https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
