@@ -91,6 +91,9 @@ https://op-group1-swiftservesd-1.dens.tv/s/s182/S4/mnf.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h233/index.m3u8
 https://rodjatv.com/rodjatv/live_720p2628kbs/index.m3u8
 
+#EXTINF:-1, Al Jazeera English
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+
 #EXTINF:-1, Quran TV
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 
