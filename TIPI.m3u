@@ -11,10 +11,12 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1, RCTI
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
 
 #EXTINF:-1, MNCTV
 
 #EXTINF:-1, GTV
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/8.ts
 
 #EXTINF:-1, iNews
 
@@ -28,6 +30,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1, Mentari TV
+https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
 
 #EXTINF:-1, ANTV
 
@@ -127,6 +130,7 @@ https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 http://202.150.161.212:5000/live/channel30/playlist.m3u8
 
 #EXTINF:-1, HBO
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
 
 #EXTINF:-1, HBO Hits
 
