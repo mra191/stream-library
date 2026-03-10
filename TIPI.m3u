@@ -33,6 +33,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
 
 #EXTINF:-1, ANTV
+https://ratu77.adptv.workers.dev/index.mpd?id=782&type=dash
 
 #EXTINF:-1, tvOne
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
