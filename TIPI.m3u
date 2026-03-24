@@ -11,11 +11,13 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1, RCTI
+http://103.66.62.83:8000/play/a00v/index.m3u8
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/6.ts
 
 #EXTINF:-1, MNCTV
 
 #EXTINF:-1, GTV
+http://103.66.62.83:8000/play/a00y/index.m3u8
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/8.ts
 
 #EXTINF:-1, iNews
@@ -30,9 +32,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1, Mentari TV
+http://103.66.62.83:8000/play/a00h/index.m3u8
 https://tv.ngebutz.my.id:443/live/2359819BA55280038B6D0B1419EAFD37/5.ts
 
 #EXTINF:-1, ANTV
+http://103.66.62.83:8000/play/a00r/index.m3u8
 https://ratu77.adptv.workers.dev/index.mpd?id=782&type=dash
 
 #EXTINF:-1, tvOne
@@ -46,9 +50,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 https://edge.medcom.id/live-edge/smil:magna.smil/index.m3u8
 
 #EXTINF:-1, Trans7 (LAMBAT)
+http://103.66.62.83:8000/play/a00u/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 
 #EXTINF:-1, Trans TV (LAMBAT)
+http://103.66.62.83:8000/play/a00x/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTINF:-1, CNN Indonesia
@@ -107,15 +113,6 @@ http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 #EXTINF:-1, Dei Kids
 https://e.siar.us/live/deikidstv.m3u8
 
-#EXTINF:-1, MyKidz TV
-https://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1, My Cinema
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
-
-#EXTINF:-1, My Family
-https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8
-
 #EXTINF:-1, K-POP TV PLAY 
 https://wahyu1ptv.pages.dev/KPopTvPlay.m3u8
 
@@ -146,12 +143,15 @@ http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1139220.m3u8
 #EXTINF:-1, Sportstars 2
 
 #EXTINF:-1, beIN Sports 1
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/295289
 
 #EXTINF:-1, beIN Sports 2
 
 #EXTINF:-1, SPOTV
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/165105
 
 #EXTINF:-1, SPOTV 2
+http://aflaxtv.xyz:8080/F36591/3f1a2b5c/298506
 
 #EXTINF:-1, Astro Arena
 
