@@ -30,6 +30,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1, Indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
+#EXTINF:-1, Indosiar LIVE
+http://103.66.62.83:8000/play/a00o/index.m3u8
+
 #EXTINF:-1, Moji
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
