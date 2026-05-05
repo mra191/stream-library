@@ -2,7 +2,7 @@
 
 ## 🎯 Apa itu TIPI.m3u?
 
-**TIPI.m3u** adalah kumpulan link streaming untuk menonton **siaran langsung TV Indonesia** dan channel internasional berkualitas tinggi. File ini berisi playlist M3U yang kompatibel dengan berbagai aplikasi pemutar media seperti VLC, Kodi, dan aplikasi IPTV lainnya.
+**TIPI.m3u** adalah kumpulan link streaming untuk menonton **siaran langsung TV Indonesia** dan channel internasional berkualitas tinggi. File ini berisi playlist M3U yang kompatibel dengan berbagai aplikasi pemutar.
 
 ---
 
@@ -144,7 +144,26 @@ Playlist ini dikumpulkan dari berbagai sumber publik. Penggunaan untuk keperluan
 
 ---
 
-**Last Updated**: 2026-04-23 07:16:45  
+## 🔗 Sumber Playlist
+
+Playlist ini dikumpulkan dari berbagai repository dan sumber terpercaya:
+
+1. [Vans-lab](https://github.com/Vans-lab?tab=repositories)
+2. [shareext-reborn](https://github.com/shareext-reborn?tab=repositories)
+3. [Bluestraveller13](https://github.com/Bluestraveller13?tab=repositories)
+4. [mimipipi22](https://github.com/mimipipi22?tab=repositories)
+5. [eradigitaltv2025](https://github.com/eradigitaltv2025?tab=repositories)
+6. [alimchesara-sys](https://github.com/alimchesara-sys?tab=repositories)
+7. [TVcrack](https://github.com/TVcrack?tab=repositories)
+8. [hendroagung2904](https://github.com/hendroagung2904?tab=repositories)
+9. [zackwod](https://github.com/zackwod?tab=repositories)
+10. [cugucugu](https://github.com/cugucugu?tab=repositories)
+11. [Pastebin - fJC5y4ft](https://pastebin.com/raw/fJC5y4ft)
+12. [Dropbox - yumtv.m3u8](https://dl.dropboxusercontent.com/s/b7xg5yhw1uh0sio/yumtv.m3u8)
+
+---
+
+**Last Updated**: 2026-05-05 00:00:00  
 **Maintained by**: @mra191  
 **Status**: ✅ Active & Updated Regularly
 
