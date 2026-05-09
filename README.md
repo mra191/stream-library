@@ -6,37 +6,6 @@
 
 ---
 
-## ✨ Fitur Unggulan
-
-🔴 **Channel Lokal Indonesia**
-- TVRI (Nasional, World, Sports)
-- RCTI, MNCTV, GTV, SCTV, Indosiar, ANTV
-- tvOne, Metro TV, Trans7, Trans TV
-- Dan puluhan channel lokal lainnya
-
-📰 **Channel Berita**
-- CNN Indonesia
-- CNBC Indonesia
-- Kompas TV
-- Berita Satu
-
-🎬 **Channel Entertainment & Premium**
-- HBO, HBO Hits, HBO Family, HBO Signature
-- tvN, tvN Movies
-- Al Jazeera English
-- K-POP TV (Play, Show Champion, CJ ENT)
-
-⚽ **Channel Olahraga**
-- beIN Sports 1 & 2
-- SPOTV 1 & 2
-- Astro Arena
-
-🎯 **Channel Religius & Anak-anak**
-- Quran TV, Sunna TV, Rodja TV, DAAI TV
-- Dei Kids
-
----
-
 ## 🚀 Cara Menggunakan
 
 ### 1️⃣ **Dengan VLC Media Player**
@@ -101,16 +70,6 @@ File ini menggunakan format **M3U** standar:
 
 ---
 
-## 📊 Statistik Channel
-
-- 🌏 **Total Channel**: 60+  
-- 🇮🇩 **Channel Lokal**: 30+  
-- 🌍 **Channel Internasional**: 15+  
-- ⚽ **Channel Olahraga**: 5+  
-- 🎬 **Channel Entertainment**: 10+
-
----
-
 ## 💡 Tips & Trik
 
 💾 **Backup Playlist** - Simpan file ini di beberapa tempat aman  
@@ -126,15 +85,6 @@ Jika menemukan link yang tidak bekerja atau ingin menambahkan channel baru:
 - Buat **Issue** di repository ini
 - Submit **Pull Request** dengan link baru
 - Beri feedback di Discussions
-
----
-
-## ⭐ Support Kami
-
-Jika playlist ini bermanfaat, jangan lupa untuk:
-- ⭐ **Star** repository ini
-- 🔗 **Fork** untuk backup pribadi Anda
-- 📢 **Share** ke teman dan keluarga
 
 ---
 
@@ -163,7 +113,6 @@ Playlist ini dikumpulkan dari berbagai repository dan sumber terpercaya:
 
 ---
 
-**Last Updated**: 2026-05-05 00:00:00  
 **Maintained by**: @mra191  
 **Status**: ✅ Active & Updated Regularly
 
