@@ -1,6 +1,6 @@
-# 📺 TIPI.m3u - Indonesian TV Streaming Playlist
+# Streaming Playlist
 
-## 🎯 Apa itu TIPI.m3u?
+## 📺 Apa itu TIPI.m3u?
 
 **TIPI.m3u** adalah kumpulan link streaming untuk menonton **siaran langsung TV Indonesia** dan channel internasional berkualitas tinggi. File ini berisi playlist M3U yang kompatibel dengan berbagai aplikasi streaming.
 
