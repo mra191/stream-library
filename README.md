@@ -6,9 +6,9 @@
 
 ---
 
-## 📻 Radio.m3u - Indonesian Radio Streaming Playlist
+## 📻 Apa itu radio.m3u?
 
-**Radio.m3u** adalah kumpulan link streaming untuk mendengarkan **stasiun radio Indonesia** dari berbagai genre dan kategori. File ini berisi playlist M3U dengan channel radio musik, berita, dan hiburan berkualitas.
+**radio.m3u** adalah kumpulan link streaming untuk mendengarkan **stasiun radio Indonesia** dari berbagai genre dan kategori. File ini berisi playlist M3U dengan channel radio musik, berita, dan hiburan berkualitas.
 
 ---
 
