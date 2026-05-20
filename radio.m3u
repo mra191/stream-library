@@ -1,38 +1,204 @@
 #EXTM3U
 
-#EXTINF:-1, — Kategori Musik —
+#EXTINF:-1, — Jakarta Pusat —
 #
 
-#EXTINF:-1, Prambors FM 102.2 (Jakarta Pusat)
+#EXTINF:-1, Prambors FM 102.2
 https://s1.cloudmu.id/listen/prambors/stream
 
-#EXTINF:-1, Gen FM 98.7 (Jakarta Pusat)
-https://ic.mari.co.id:8443/genfm
+#EXTINF:-1, Delta FM 99.1
+https://s1.cloudmu.id/listen/delta_fm/stream
 
-#EXTINF:-1, Gen FM 103.1 (Surabaya)
-https://ic.mari.co.id:8443/gensbyfm
-
-#EXTINF:-1, The Rockin Life 87.6 FM (Jakarta Pusat)
-https://stream-ssl.arenastreaming.com:8004/hardrock
-
-#EXTINF:-1, iSwara FM 101.4 (Jakarta Pusat)
-https://n04.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABnkL1kNgADUPPwgVtHCkttA
-
-#EXTINF:-1, — Kategori Berita —
-#
-
-#EXTINF:-1, RRI Pro 3 - KBRN - FM 88.8 (Jakarta Pusat)
-https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
-
-#EXTINF:-1, Elshinta FM 90 (Jakarta Pusat)
+#EXTINF:-1, Elshinta FM 90
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:-1, — Kategori Lokal —
+#EXTINF:-1, Campursari FM 89.2
+https://streaming.campursarifm.com/listen/campursari/campursari892
+
+#EXTINF:-1, ISwara FM 101.4
+https://n0c.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABnkTAw0EAO7qB9-S3N8Qq5g
+
+#EXTINF:-1, FeMale FM 97.9
+https://n09.rcs.revma.com/9thenqqd2ncwv?rj-ttl=5&rj-tok=AAABnkTBOVMAdXCkaSP__78Ong
+
+#EXTINF:-1, Sonora FM 92.0
+https://sonora-radio.arenastreaming.com/8130/stream
+
+#EXTINF:-1, Gen FM 98.7
+https://ic.mari.co.id:8443/genfm
+
+#EXTINF:-1, The Rockin Life 87.6 FM
+https://stream-ssl.arenastreaming.com:8004/hardrock
+
+#EXTINF:-1, MNC Trijaya 104.6 FM
+https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/
+
+#EXTINF:-1, Tebet Radio FM 107.2
+https://stream-ssl.arenastreaming.com:8066/stream
+
+#EXTINF:-1, RRI Pro 3 - KBRN - FM 88.8
+https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
+
+#EXTINF:-1, DeHills Radio
+https://live.dehills.id/listen/dehills/stream
+
+#EXTINF:-1, — Banjarmasin —
 #
 
-#EXTINF:-1, Radio Suara Banjar 100.4 FM (Banjar)
-https://streamrsb.banjarkab.go.id/stream.ogg
+#EXTINF:-1, I-Swara FM 90.1
+http://n02.radiojar.com/qfqd2aw80k8uv?rj-ttl=5&rj-tok=AAABnkTK40kAzXoiFQSse7HIrQ
 
+#EXTINF:-1, Pro 2 RRI 95.2 FM
+https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro2.mp3
+
+#EXTINF:-1, Pro 1 RRI 96.7 FM
+https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
+
+#EXTINF:-1, Pro 4 RRI 87.7 FM
+https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro4.mp3
+
+#EXTINF:-1, Sun FM 103.5
+https://a1.siar.us/radio/8440/radio.mp3
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
+
+
+#EXTINF:-1, 
 
 
 
