@@ -130,4 +130,4 @@ Playlist ini dikumpulkan dari berbagai repository dan sumber terpercaya:
 
 ---
 
-> 🎬 **Selamat menonton!** Nikmati streaming TV Indonesia dengan mudah dan gratis.
+> 🎬 **Selamat menonton!** Nikmati streaming TV dan Radio Indonesia dengan mudah dan gratis.
