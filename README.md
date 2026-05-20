@@ -2,7 +2,13 @@
 
 ## 🎯 Apa itu TIPI.m3u?
 
-**TIPI.m3u** adalah kumpulan link streaming untuk menonton **siaran langsung TV Indonesia** dan channel internasional berkualitas tinggi. File ini berisi playlist M3U yang kompatibel dengan berbagai aplikasi pemutar.
+**TIPI.m3u** adalah kumpulan link streaming untuk menonton **siaran langsung TV Indonesia** dan channel internasional berkualitas tinggi. File ini berisi playlist M3U yang kompatibel dengan berbagai aplikasi streaming.
+
+---
+
+## 📻 Radio.m3u - Indonesian Radio Streaming Playlist
+
+**Radio.m3u** adalah kumpulan link streaming untuk mendengarkan **stasiun radio Indonesia** dari berbagai genre dan kategori. File ini berisi playlist M3U dengan channel radio musik, berita, dan hiburan berkualitas.
 
 ---
 
@@ -10,7 +16,7 @@
 
 ### 1️⃣ **Dengan VLC Media Player**
 ```
-File → Open Network Stream → Paste URL dari TIPI.m3u
+File → Open Network Stream → Paste URL dari TIPI.m3u atau radio.m3u
 ```
 
 ### 2️⃣ **Dengan Aplikasi IPTV**
@@ -20,7 +26,13 @@ File → Open Network Stream → Paste URL dari TIPI.m3u
 - Perfect Player
 - IPTV Smarters Pro
 
-### 3️⃣ **Direct Link**
+### 3️⃣ **Untuk Radio**
+- Aplikasi radio streaming
+- VLC Media Player
+- Android radio apps
+- Web players yang support M3U
+
+### 4️⃣ **Direct Link**
 Copy URL channel favorit Anda dan paste ke aplikasi pemutar yang mendukung format HLS/M3U8
 
 ---
