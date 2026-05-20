@@ -3,216 +3,59 @@
 #EXTINF:-1, — Jakarta Pusat —
 #
 
-#EXTINF:-1, Prambors FM 102.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Prambors_FM.svg/1200px-Prambors_FM.svg.png", Prambors FM 102.2
 https://s1.cloudmu.id/listen/prambors/stream
 
-#EXTINF:-1, Delta FM 99.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Delta_FM_Indonesia_-_2024.svg/1200px-Delta_FM_Indonesia_-_2024.svg.png", Delta FM 99.1
 https://s1.cloudmu.id/listen/delta_fm/stream
 
-#EXTINF:-1, Elshinta FM 90
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Elshinta-90.jpg", Elshinta FM 90
 https://stream-ssl.arenastreaming.com:8000/jakarta
 
-#EXTINF:-1, Campursari FM 89.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Campursari_FM.svg/1200px-Campursari_FM.svg.png", Campursari FM 89.2
 https://streaming.campursarifm.com/listen/campursari/campursari892
 
-#EXTINF:-1, ISwara FM 101.4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/I-Swara_logo.svg/1200px-I-Swara_logo.svg.png", ISwara FM 101.4
 https://n0c.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABnkTAw0EAO7qB9-S3N8Qq5g
 
-#EXTINF:-1, FeMale FM 97.9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Female_Radio_2022.svg/1200px-Female_Radio_2022.svg.png", FeMale FM 97.9
 https://n09.rcs.revma.com/9thenqqd2ncwv?rj-ttl=5&rj-tok=AAABnkTBOVMAdXCkaSP__78Ong
 
-#EXTINF:-1, Sonora FM 92.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Sonora_FM.svg/1200px-Sonora_FM.svg.png", Sonora FM 92.0
 https://sonora-radio.arenastreaming.com/8130/stream
 
-#EXTINF:-1, Gen FM 98.7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gen_FM_Indonesia.svg/1200px-Gen_FM_Indonesia.svg.png", Gen FM 98.7
 https://ic.mari.co.id:8443/genfm
 
-#EXTINF:-1, The Rockin Life 87.6 FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Rockin%27_Life_87.6_FM.svg/1200px-The_Rockin%27_Life_87.6_FM.svg.png", The Rockin Life 87.6 FM
 https://stream-ssl.arenastreaming.com:8004/hardrock
 
-#EXTINF:-1, MNC Trijaya 104.6 FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/MNC_Trijaya_FM.svg/1200px-MNC_Trijaya_FM.svg.png", MNC Trijaya 104.6 FM
 https://proxy.rctiplus.com/?name=http://8.215.206.157:8002/
 
-#EXTINF:-1, Tebet Radio FM 107.2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tebet_Radio_FM_107.2.svg/1200px-Tebet_Radio_FM_107.2.svg.png", Tebet Radio FM 107.2
 https://stream-ssl.arenastreaming.com:8066/stream
 
-#EXTINF:-1, RRI Pro 3 - KBRN - FM 88.8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/RRI_Pro_3.svg/1200px-RRI_Pro_3.svg.png", RRI Pro 3 - KBRN - FM 88.8
 https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 
-#EXTINF:-1, DeHills Radio
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/DeHills_Radio.svg/1200px-DeHills_Radio.svg.png", DeHills Radio
 https://live.dehills.id/listen/dehills/stream
 
 #EXTINF:-1, — Banjarmasin —
 #
 
-#EXTINF:-1, I-Swara FM 90.1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/I-Swara_logo.svg/1200px-I-Swara_logo.svg.png", I-Swara FM 90.1
 http://n02.radiojar.com/qfqd2aw80k8uv?rj-ttl=5&rj-tok=AAABnkTK40kAzXoiFQSse7HIrQ
 
-#EXTINF:-1, Pro 2 RRI 95.2 FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RRI_Pro_2_Banjarmasin_2023.svg/1200px-RRI_Pro_2_Banjarmasin_2023.svg.png", Pro 2 RRI 95.2 FM
 https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro2.mp3
 
-#EXTINF:-1, Pro 1 RRI 96.7 FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/RRI_Pro_1.svg/1200px-RRI_Pro_1.svg.png", Pro 1 RRI 96.7 FM
 https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro1.mp3
 
-#EXTINF:-1, Pro 4 RRI 87.7 FM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RRI_Pro_4.svg/1200px-RRI_Pro_4.svg.png", Pro 4 RRI 87.7 FM
 https://stream-node0.rri.co.id/streaming/19/9019/rribanjarmasinpro4.mp3
 
-#EXTINF:-1, Sun FM 103.5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Sun_FM_Indonesia.svg/1200px-Sun_FM_Indonesia.svg.png", Sun FM 103.5
 https://a1.siar.us/radio/8440/radio.mp3
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-#EXTINF:-1, 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
